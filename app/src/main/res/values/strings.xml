@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="pub_gists_num">%d\nGists</string>
+    <string name="following_num">%d\nFollowing</string>
+    <string name="follower_num">%d\nFollowers</string>
+    <string name="blog">http://www.easydone.cn</string>
+    <string name="email">woshiliangzhitao@gmail.com</string>
+    <string name="pub_repos_num">%d\nRepositories</string>
+</resources>
